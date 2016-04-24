@@ -31,3 +31,7 @@ Programming Languages and their implementation:
 * Networking (TCP, HTTP)
 * Operating Systems (file systems, scheduling)
 * Security and Cryptography
+
+### More papers
+
+A very complete collection of interesting papers can be found at the [Papers We Love repository](https://github.com/papers-we-love/papers-we-love).
