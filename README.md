@@ -7,4 +7,5 @@ This is the repository for the Utrecht chapter of Papers We Love. As a local cha
 
 * Adolfo Ochagavía, [GitHub](https://github.com/aochagavia), [Twitter](https://twitter.com/aochagavia), [email](mailto:aochagavia92@gmail.com)
 * Arian van Putten, [GitHub](https://github.com/arianvp)
-* Laurens Duijvesteijn, [GitHub](https://github.com/duif)
+* Laurens Duijvesteijn, [GitHub](https://github.com/duijf),
+* [email](mailto:l.duijvesteijn@gmail.com)
